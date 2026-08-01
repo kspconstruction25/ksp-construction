@@ -74,7 +74,7 @@ $(document).ready(function () {
 
                     // Send via EmailJS
                     emailjs.send(
-                        "service_of85deu",
+                        "service_4iwk4lf",
                         "template_i3fdvrm",
                         data
                     ).then(function () {
