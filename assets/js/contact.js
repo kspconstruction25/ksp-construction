@@ -75,7 +75,7 @@ $(document).ready(function () {
                     // Send via EmailJS
                     emailjs.send(
                         "service_of85deu",
-                        "template_xt9fjoe",
+                        "template_i3fdvrm",
                         data
                     ).then(function () {
                         // Construct WhatsApp message
